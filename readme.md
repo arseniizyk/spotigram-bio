@@ -3,6 +3,7 @@
 [![Go Version](https://img.shields.io/badge/Go-1.24+-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev/)
 [![TDLib](https://img.shields.io/badge/Telegram-TDLib_MTProto-24A1DE?style=flat&logo=telegram&logoColor=white)](https://core.telegram.org/tdlib)
 [![Spotify Web API](https://img.shields.io/badge/Spotify-Web_API-1DB954?style=flat&logo=spotify&logoColor=white)](https://developer.spotify.com/)
+[![Go CI](https://github.com/arseniizyk/spotigram-bio/actions/workflows/linter.yml/badge.svg)](https://github.com/arseniizyk/spotigram-bio/actions/workflows/linter.yml)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 
 **spotigram-bio** is a high-performance background daemon written in Go that automatically synchronizes your live Spotify playback status to your Telegram bio in real time, featuring native TDLib MTProto client integration and graceful state restoration.
